@@ -18,3 +18,4 @@ Data:HiFromC
 
 Feel free to implement encoders/encryption if you please, I will not support this in the public release. 
 
+![](https://github.com/jfmaes/RegFetch/blob/main/RegFetch.gif)
